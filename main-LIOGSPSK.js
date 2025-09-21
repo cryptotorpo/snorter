@@ -60972,12 +60972,12 @@ var KP = (() => {
           {
             img: "/assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegraam",
-            link: "https://t.me/snorter_eth",
+            link: "https://t.me/snorter_sol",
           },
           {
             img: "/assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/snorter_eth",
+            link: "https://x.com/Snorter_Sol",
           },
           
         ]),
@@ -61453,12 +61453,12 @@ var JP = (() => {
           {
             img: "/assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegram",
-            link: "https://t.me/snorter_eth",
+            link: "https://t.me/snorter_sol",
           },
           {
             img: "/assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/snorter_eth",
+            link: "https://x.com/Snorter_Sol",
           },
          
         ]);
